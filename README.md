@@ -1,4 +1,4 @@
-# Apache-Kafka
+# Live News Entity Analysis System
 
 # Kafka Streamer with NLP Processing
 This project demonstrates a real-time data pipeline using Apache Kafka, Kibana, and Elasticsearch. The pipeline involves fetching news articles, streaming them through Kafka, and applying Natural Language Processing (NLP) using SpaCy to extract and analyze entities from the news content.
